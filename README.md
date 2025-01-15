@@ -11,12 +11,13 @@ This project implements a Retrieval-Augmented Generation (RAG) based application
 
 ## Project Structure
 
-.
+```
 ├── app.py                                        # Main application file
 ├── .env                                          # Environment variables file (not pushed to GitHub)
 ├── requirements.txt                              # Python dependencies 
 ├── README.md                                     # Project documentation
 └── assets/                                       # Assets like screenshots, if needed
+```
 
 
 
