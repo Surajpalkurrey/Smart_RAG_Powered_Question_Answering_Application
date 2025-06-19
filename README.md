@@ -1,4 +1,4 @@
-# Smart_RAG_Powered_Question_Answering_Application.
+#    Intelligent_RAG_Powered_Question_Answering_Application.
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) based application for answering user queries by processing different types of inputs, including PDF files, URLs, and web search results. The app uses a locally hosted Ollama Large Language Model (LLM) to generate context-aware answers, providing fast and reliable information retrieval. The app is built using Python, and Streamlit for the front end, and integrates Chroma for embedding-based document retrieval.
